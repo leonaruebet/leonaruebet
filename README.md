@@ -24,35 +24,31 @@
 - 🎯 The Rector's Certificate of Honors (2022 & 2023)
 
 ---
-
 ### 💼 Professional Experience
-<div align="center" style="width: 100%; max-width: 1200px; margin: 0 auto;">
-  <div style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; margin: 10px 0; background: rgba(46, 204, 113, 0.1); width: 100%;">
-    <h3 style="color: #2ecc71; text-shadow: 0 0 10px #2ecc71;">Current Roles 🌟</h3>
-    
-    <kbd style="display: block; width: 100%; margin-bottom: 20px; box-sizing: border-box;">
-      <div align="left" style="padding: 15px; min-height: 180px; width: 100%;">
-        <h4>🏢 The Station Group Holding Co., Ltd | Chief Operating Officer | <i>05/2024 - Present</i></h4>
-        <ul>
-          <li>🤖 Analyzed 3 years of historical chat data to train AI chatbot, automating 60% of routine inquiries</li>
-          <li>📈 Boosted customer retention by 25% through advanced data analysis</li>
-          <li>🚀 Spearheaded Next Gen Entrepreneur Station x BOTNOI CEO Padawan Program</li>
-          <li>🔄 Automated AI-generated content, reducing content ideation time by 80%</li>
-        </ul>
-      </div>
-    </kbd>
 
-    <kbd style="display: block; width: 100%; margin-bottom: 20px; box-sizing: border-box;">
-      <div align="left" style="padding: 15px; min-height: 180px; width: 100%;">
-        <h4>🏢 Baksters Co., Ltd | Researcher & Business Developer | <i>09/2023 - Present</i></h4>
-        <ul>
-          <li>💡 Secured funding for 4 AI products through business models and projections</li>
-          <li>📊 Drove 150% growth in customer engagement through market research</li>
-          <li>🛠️ Improved manufacturing efficiency by 30% through AI integration</li>
-          <li>🤝 Strengthened client relationships through actionable insights</li>
-        </ul>
-      </div>
-    </kbd>
+<div style="display: flex; flex-direction: column; gap: 20px; padding: 20px;">
+  <div style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; background: rgba(46, 204, 113, 0.1);">
+    <h3 style="color: #2ecc71; text-shadow: 0 0 10px #2ecc71; margin-bottom: 20px;">Current Roles 🌟</h3>
+    
+    <div style="border: 1px solid #ddd; border-radius: 5px; padding: 20px; margin-bottom: 20px;">
+      <h4>🏢 The Station Group Holding Co., Ltd | Chief Operating Officer | <i>05/2024 - Present</i></h4>
+      <ul>
+        <li>🤖 Analyzed 3 years of historical chat data to train AI chatbot, automating 60% of routine inquiries</li>
+        <li>📈 Boosted customer retention by 25% through advanced data analysis</li>
+        <li>🚀 Spearheaded Next Gen Entrepreneur Station x BOTNOI CEO Padawan Program</li>
+        <li>🔄 Automated AI-generated content, reducing content ideation time by 80%</li>
+      </ul>
+    </div>
+
+    <div style="border: 1px solid #ddd; border-radius: 5px; padding: 20px;">
+      <h4>🏢 Baksters Co., Ltd | Researcher & Business Developer | <i>09/2023 - Present</i></h4>
+      <ul>
+        <li>💡 Secured funding for 4 AI products through business models and projections</li>
+        <li>📊 Drove 150% growth in customer engagement through market research</li>
+        <li>🛠️ Improved manufacturing efficiency by 30% through AI integration</li>
+        <li>🤝 Strengthened client relationships through actionable insights</li>
+      </ul>
+    </div>
   </div>
 </div>
 
