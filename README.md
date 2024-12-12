@@ -111,6 +111,8 @@
 
 </div>
 
+---
+
 ### 📜 Certifications
 
 <div align="left">
