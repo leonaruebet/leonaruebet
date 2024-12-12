@@ -24,7 +24,7 @@
       <p>- 📚 Design and Digital Innovation (Business Administration)</p>
       <p>- 🏆 GPA: 3.80/4.0</p>
       <p>- 🎯 The Rector's Certificate of Honors (2022 & 2023)</p>
-      <p>- 🎯 Secretary of the DDI Student Committee (2023)</p>
+      <p>- 💻 Secretary of the DDI Student Committee (2023)</p>
     </div>
   </kbd>
 
@@ -35,11 +35,11 @@
 **Roles 🌟**
   <kbd>
     <div align="left" style="padding: 20px;">
-      <p>- 🏢 The Station Group Holding Co., Ltd | Co-Founder & Chief Operating Officer | 05/2024 - Present</p>
-      <p>- 🏢 Baksters Co., Ltd | Researcher & Business Developer | 09/2023 - Present</p>
-      <p>- 🏢 Durian Corporation Co., Ltd | Data Scientist | 06/2024 – 10/2024</p>
-      <p>- 🏢 Syntax Co., Ltd | Data Analyst| 12/2023 – 02/2024</p>
-      <p>- 🏢 Y-Me | Co-Founder & Business Developer | 02/2022 – 01/2023</p>
+      <p>🏢 The Station Group Holding Co., Ltd | Co-Founder & Chief Operating Officer | 05/2024 - Present</p>
+      <p>🏢 Baksters Co., Ltd | Researcher & Business Developer | 09/2023 - Present</p>
+      <p>🏢 Durian Corporation Co., Ltd | Data Scientist | 06/2024 – 10/2024</p>
+      <p>🏢 Syntax Co., Ltd | Data Analyst| 12/2023 – 02/2024</p>
+      <p>🏢 Y-Me | Co-Founder & Business Developer | 02/2022 – 01/2023</p>
     </div>
   </kbd>
 </div>
