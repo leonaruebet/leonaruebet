@@ -28,15 +28,23 @@
 
 
 **Roles 🌟**
-- 🏢 The Station Group Holding Co., Ltd | Co-Founder & Chief Operating Officer | 05/2024 - Present
-- 🏢 Baksters Co., Ltd | Researcher & Business Developer | 09/2023 - Present
-- 🏢 Durian Corporation Co., Ltd | Data Scientist | 06/2024 – 10/2024
-- 🏢 Syntax Co., Ltd | Data Analyst| 12/2023 – 02/2024
-- 🏢 Y-Me | Co-Founder & Business Developer | 02/2022 – 01/2023
+  <kbd>
+    <div align="left" style="padding: 20px;">
+      <p>- 🏢 The Station Group Holding Co., Ltd | Co-Founder & Chief Operating Officer | 05/2024 - Present</p>
+      <p>- 🏢 Baksters Co., Ltd | Researcher & Business Developer | 09/2023 - Present</p>
+      <p>- 🏢 Durian Corporation Co., Ltd | Data Scientist | 06/2024 – 10/2024</p>
+      <p>- 🏢 Syntax Co., Ltd | Data Analyst| 12/2023 – 02/2024</p>
+      <p>- 🏢 Y-Me | Co-Founder & Business Developer | 02/2022 – 01/2023</p>
+    </div>
+  </kbd>
 
-<div align="center">
+<div align="left">
   <div>
-    <h3>Awards 🌟</h3>
+
+---
+
+### 🎖️ Awards 🌟
+
   <kbd>
     <div align="left" style="padding: 20px;">
       <p>🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
