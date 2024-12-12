@@ -9,25 +9,14 @@
 </div> 
 
 <div align="center">
-  <a href="mailto:leonaruebet@gmail.com"><img src="https://img.shields.io/badge/Email-leonaruebet%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="tel:+66917013333"><img src="https://img.shields.io/badge/Phone-+66_91701333-green?style=for-the-badge&logo=phone&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonaruebet/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonaruebet/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonaruebet)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://naruebet.ireadcustomer.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonaruebet@gmail.com)
+
 </div>
-
----
-
-### 🧑 Education
-
-**Assumption University of Thailand** (2022-2025)
-  <kbd>
-    <div align="left" style="padding: 20px;">
-      <p>- 📚 Design and Digital Innovation (Business Administration)</p>
-      <p>- 🏆 GPA: 3.80/4.0</p>
-      <p>- 🎯 The Rector's Certificate of Honors (2022 & 2023)</p>
-      <p>- 💻 Secretary of the DDI Student Committee (2023)</p>
-    </div>
-  </kbd>
-
 ---
 ### 💼 Professional Experience
 
@@ -67,20 +56,6 @@
       <p>🥉 Chula Engineer Hackathon (2022): 2nd Runner-Up + Most Creative Prize.</p>
     </div>
   </kbd>
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonaruebet/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonaruebet/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonaruebet)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://naruebet.ireadcustomer.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonaruebet@gmail.com)
-
 </div>
 
 ---
