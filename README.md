@@ -26,61 +26,34 @@
 ---
 
 ### 💼 Professional Experience
-<div align="center">
+<div align="center" style="width: 100%; max-width: 1200px; margin: 0 auto;">
+  <div style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; margin: 10px 0; background: rgba(46, 204, 113, 0.1); width: 100%;">
+    <h3 style="color: #2ecc71; text-shadow: 0 0 10px #2ecc71;">Current Roles 🌟</h3>
+    
+    <kbd style="display: block; width: 100%; margin-bottom: 20px; box-sizing: border-box;">
+      <div align="left" style="padding: 15px; min-height: 180px; width: 100%;">
+        <h4>🏢 The Station Group Holding Co., Ltd | Chief Operating Officer | <i>05/2024 - Present</i></h4>
+        <ul>
+          <li>🤖 Analyzed 3 years of historical chat data to train AI chatbot, automating 60% of routine inquiries</li>
+          <li>📈 Boosted customer retention by 25% through advanced data analysis</li>
+          <li>🚀 Spearheaded Next Gen Entrepreneur Station x BOTNOI CEO Padawan Program</li>
+          <li>🔄 Automated AI-generated content, reducing content ideation time by 80%</li>
+        </ul>
+      </div>
+    </kbd>
 
-<div style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; margin: 10px; background: rgba(46, 204, 113, 0.1); width: 800px;">
-  <h3 style="color: #2ecc71; text-shadow: 0 0 10px #2ecc71;">Current Roles 🌟</h3>
-  
-  <kbd style="display: block; width: 100%; margin-bottom: 20px;">
-    <div align="left" style="padding: 15px; min-height: 200px;">
-      <h4>🏢 The Station Group Holding Co., Ltd | Chief Operating Officer | <i>05/2024 - Present</i></h4>
-      <ul>
-        <li>🤖 Analyzed 3 years of historical chat data to train AI chatbot, automating 60% of routine inquiries</li>
-        <li>📈 Boosted customer retention by 25% through advanced data analysis</li>
-        <li>🚀 Spearheaded Next Gen Entrepreneur Station x BOTNOI CEO Padawan Program</li>
-        <li>🔄 Automated AI-generated content, reducing content ideation time by 80%</li>
-      </ul>
-    </div>
-  </kbd>
-
-  <kbd style="display: block; width: 100%; margin-bottom: 20px;">
-    <div align="left" style="padding: 15px; min-height: 200px;">
-      <h4>🏢 Baksters Co., Ltd | Researcher & Business Developer | <i>09/2023 - Present</i></h4>
-      <ul>
-        <li>💡 Secured funding for 4 AI products through business models and projections</li>
-        <li>📊 Drove 150% growth in customer engagement through market research</li>
-        <li>🛠️ Improved manufacturing efficiency by 30% through AI integration</li>
-        <li>🤝 Strengthened client relationships through actionable insights</li>
-      </ul>
-    </div>
-  </kbd>
-</div>
-
-<div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin: 10px; background: rgba(52, 152, 219, 0.1); width: 800px;">
-  <h3 style="color: #3498db; text-shadow: 0 0 10px #3498db;">Previous Roles 📚</h3>
-
-  <kbd style="display: block; width: 100%; margin-bottom: 20px;">
-    <div align="left" style="padding: 15px; min-height: 200px;">
-      <h4>🏢 Durian Corporation Co., Ltd | Data Scientist Intern | <i>06/2024 - 10/2024</i></h4>
-      <ul>
-        <li>📊 Developed interactive data visualizations for 3 clients</li>
-        <li>🔍 Conducted NLP-based text analysis on SEA countries</li>
-        <li>🎥 Developed AI-based video tagging system for TikTok</li>
-      </ul>
-    </div>
-  </kbd>
-
-  <kbd style="display: block; width: 100%; margin-bottom: 20px;">
-    <div align="left" style="padding: 15px; min-height: 200px;">
-      <h4>🏢 Syntax Co., Ltd | Data Analytics & Business Development | <i>12/2023 - 02/2024</i></h4>
-      <ul>
-        <li>💻 Enhanced customer behavior insights through advanced analytics</li>
-        <li>🤖 Built no-code AI chatbot, improving response efficiency by 30%</li>
-        <li>📈 Increased market penetration by 40% through competitive analysis</li>
-        <li>🚀 Drove 15% revenue growth through community marketing strategies</li>
-      </ul>
-    </div>
-  </kbd>
+    <kbd style="display: block; width: 100%; margin-bottom: 20px; box-sizing: border-box;">
+      <div align="left" style="padding: 15px; min-height: 180px; width: 100%;">
+        <h4>🏢 Baksters Co., Ltd | Researcher & Business Developer | <i>09/2023 - Present</i></h4>
+        <ul>
+          <li>💡 Secured funding for 4 AI products through business models and projections</li>
+          <li>📊 Drove 150% growth in customer engagement through market research</li>
+          <li>🛠️ Improved manufacturing efficiency by 30% through AI integration</li>
+          <li>🤝 Strengthened client relationships through actionable insights</li>
+        </ul>
+      </div>
+    </kbd>
+  </div>
 </div>
 
 </div>
