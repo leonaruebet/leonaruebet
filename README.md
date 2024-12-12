@@ -42,16 +42,14 @@
       <p>- 🏢 Y-Me | Co-Founder & Business Developer | 02/2022 – 01/2023</p>
     </div>
   </kbd>
-
-<div align="left">
-  <div>
+</div>
 
 ---
 
-### 🎖️ Awards 🌟
+### Awards 🎖️
 
   <kbd>
-    <div align="left" style="padding: 20px;">
+    <div align="center" style="padding: 20px;">
       <p>🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
       <p>🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.</p>
       <p>🥇 Youth Mentorship Project Hackathon (2022): Winner.</p>
