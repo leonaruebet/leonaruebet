@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Entrepreneur | Data Analyst & Business Developer | AI Innovator</h3>
 
 <div align="center">
-  <p><i>A 21 years old Data Scientist 🖥️ & Business Developer with 3 years of experience in AI solutions, data analytics, and tech startups.</i></p>
+  <p><i>I am a young entrepreneur passionate about innovating new solutions by leveraging AI and data-driven strategies. Using my expertise in Business Development and Data Science, I aim to create impactful, technology-driven businesses.</i></p>
 </div> 
 
 <div align="center">
@@ -17,6 +17,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonaruebet@gmail.com)
 
 </div>
+
 ---
 
 ### 💼 Professional Experience
