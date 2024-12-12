@@ -111,26 +111,6 @@
 
 </div>
 
-### 📊 Skills
-
-<div align="left">
-
-#### Data Analysis Expertise
-- 🔄 **Data Processing**: ETL, Data Preparation, Data Cleaning
-- 📊 **Visualization**: Word Cloud, Semantic Networks, Network Graphs, Sankey Map, Heatmap
-- 📈 **Analysis Methods**: EDA, LDA, GSDMM, ANOVA, TF-IDF, Topic Modeling, Sentiment Analysis
-
-#### Business Frameworks
-- 💰 **Finance**: DCF, NPV, IRR, ROI, CAC Calculation, Value-Based Pricing
-- 📋 **Strategy**: Five Forces, Business Model Canvas, Value Proposition Canvas, 4Us, 3Ds
-- 📢 **Marketing**: RFM Analysis, Hook Model, Customer Journey Mapping, SWOT, PESTEL, 4Ps
-
-#### Languages
-- 🇹🇭 Thai (Native)
-- 🇬🇧 English (Intermediate)
-
-</div>
-
 ### 📜 Certifications
 
 <div align="left">
