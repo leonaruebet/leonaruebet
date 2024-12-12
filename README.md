@@ -19,9 +19,14 @@
 ### 🧑 Education
 
 **Assumption University of Thailand** (2022-2025)
-- 📚 Design and Digital Innovation (Business Administration)
-- 🏆 GPA: 3.80/4.0
-- 🎯 The Rector's Certificate of Honors (2022 & 2023)
+  <kbd>
+    <div align="left" style="padding: 20px;">
+      <p>- 📚 Design and Digital Innovation (Business Administration)</p>
+      <p>- 🏆 GPA: 3.80/4.0</p>
+      <p>- 🎯 The Rector's Certificate of Honors (2022 & 2023)</p>
+      <p>- 🎯 Secretary of the DDI Student Committee (2023)</p>
+    </div>
+  </kbd>
 
 ---
 ### 💼 Professional Experience
