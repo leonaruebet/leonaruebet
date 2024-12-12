@@ -25,13 +25,34 @@
 
 ---
 ### 💼 Professional Experience
+
+
+**Roles 🌟**
+- 🏢 The Station Group Holding Co., Ltd | Co-Founder & Chief Operating Officer | 05/2024 - Present
+- 🏢 Baksters Co., Ltd | Researcher & Business Developer | 09/2023 - Present
+- 🏢 Durian Corporation Co., Ltd | Data Scientist | 06/2024 – 10/2024
+- 🏢 Syntax Co., Ltd | Data Analyst| 12/2023 – 02/2024
+- 🏢 Y-Me | Co-Founder & Business Developer | 02/2022 – 01/2023
+
 <div align="center">
   <div>
-    <h3>Current Roles 🌟</h3>
-    
-      🏢 The Station Group Holding Co., Ltd | Chief Operating Officer | 05/2024 - Present
-      🏢 Baksters Co., Ltd | Researcher & Business Developer | 09/2023 - Present
-
+    <h3>Awards 🌟</h3>
+🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.
+🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.
+🥇 Youth Mentorship Project Hackathon (2022): Winner.
+🥈 AI & Cyber Security Hackathon (2024): 1st Runner-Up.
+🥈 CUBS Blockathon (2024): 1st Runner-Up among 1,700+ participants.
+🥈 Young Gen Hackathon (2022): 1st Runner-Up among 100+ participants.
+🥈 Business Idea Competition by Base x Ignite (2021): 1st Runner-Up among 200+ participants.
+🥈 Wai-Run Me Kong Competition (2021): 1st Runner-Up 
+🥈 Microsoft Track | CHOICEISYOUR2024: 1st Runner-Up.
+🥈 HACKaTHAILAND (2023): Achieved 5th place.
+🥈 Young Gen Hackathon (2022): 1st Runner-Up.
+🥈 DDI Bootcamp (2023): 1st Runner-Up.
+🥈 DDI Tech Startup Program (2022): 1st Runner-Up.
+🥉 KMUTT MIDI Hackathon (2022): 2nd Runner-Up.
+🥉 NiTAD 18 Chulalongkorn (2022): 2nd Runner-Up.
+🥉 Chula Engineer Hackathon (2022): 2nd Runner-Up + Most Creative Prize.
   <div>
 <div>
 ---
