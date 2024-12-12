@@ -6,7 +6,7 @@
 
 <div align="center">
   <p><i>A 21 years old Data Scientist 🖥️ & Business Developer with 3 years of experience in AI solutions, data analytics, and tech startups.</i></p>
-</div>
+</div> 
 
 <div align="center">
   <a href="mailto:leonaruebet@gmail.com"><img src="https://img.shields.io/badge/Email-leonaruebet%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -27,34 +27,66 @@
 
 ### 💼 Professional Experience
 
-<div align="left">
+<div align="center">
 
-#### Current Roles
+<div style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; margin: 10px; background: rgba(46, 204, 113, 0.1);">
+  <h3 style="color: #2ecc71; text-shadow: 0 0 10px #2ecc71;">Current Roles 🌟</h3>
+  
+  <kbd>
+    <div align="left" style="padding: 15px;">
+      <h4>🏢 The Station Group Holding Co., Ltd | Chief Operating Officer | <i>05/2024 - Present</i></h4>
+      <ul>
+        <li>🤖 Analyzed 3 years of historical chat data to train AI chatbot, automating 60% of routine inquiries</li>
+        <li>📈 Boosted customer retention by 25% through advanced data analysis</li>
+        <li>🚀 Spearheaded Next Gen Entrepreneur Station x BOTNOI CEO Padawan Program</li>
+        <li>🔄 Automated AI-generated content, reducing content ideation time by 80%</li>
+      </ul>
+    </div>
+  </kbd>
 
-**The Station Group Holding Co., Ltd** | Chief Operating Officer | *05/2024 - Present*
-- 🤖 Analyzed 3 years of historical chat data to train AI chatbot, automating 60% of routine inquiries
-- 📈 Boosted customer retention by 25% through advanced data analysis
-- 🚀 Spearheaded Next Gen Entrepreneur Station x BOTNOI CEO Padawan Program
-- 🔄 Automated AI-generated content, reducing content ideation time by 80%
+  <br><br>
 
-**Baksters Co., Ltd** | Researcher & Business Developer | *09/2023 - Present*
-- 💡 Secured funding for 4 AI products through business models and projections
-- 📊 Drove 150% growth in customer engagement through market research
-- 🛠️ Improved manufacturing efficiency by 30% through AI integration
-- 🤝 Strengthened client relationships through actionable insights
+  <kbd>
+    <div align="left" style="padding: 15px;">
+      <h4>🏢 Baksters Co., Ltd | Researcher & Business Developer | <i>09/2023 - Present</i></h4>
+      <ul>
+        <li>💡 Secured funding for 4 AI products through business models and projections</li>
+        <li>📊 Drove 150% growth in customer engagement through market research</li>
+        <li>🛠️ Improved manufacturing efficiency by 30% through AI integration</li>
+        <li>🤝 Strengthened client relationships through actionable insights</li>
+      </ul>
+    </div>
+  </kbd>
+</div>
 
-#### Previous Roles
+<div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin: 10px; background: rgba(52, 152, 219, 0.1);">
+  <h3 style="color: #3498db; text-shadow: 0 0 10px #3498db;">Previous Roles 📚</h3>
 
-**Durian Corporation Co., Ltd** | Data Scientist Intern | *06/2024 - 10/2024*
-- 📊 Developed interactive data visualizations for 3 clients
-- 🔍 Conducted NLP-based text analysis on SEA countries
-- 🎥 Developed AI-based video tagging system for TikTok
+  <kbd>
+    <div align="left" style="padding: 15px;">
+      <h4>🏢 Durian Corporation Co., Ltd | Data Scientist Intern | <i>06/2024 - 10/2024</i></h4>
+      <ul>
+        <li>📊 Developed interactive data visualizations for 3 clients</li>
+        <li>🔍 Conducted NLP-based text analysis on SEA countries</li>
+        <li>🎥 Developed AI-based video tagging system for TikTok</li>
+      </ul>
+    </div>
+  </kbd>
 
-**Syntax Co., Ltd** | Data Analytics & Business Development | *12/2023 - 02/2024*
-- 💻 Enhanced customer behavior insights through advanced analytics
-- 🤖 Built no-code AI chatbot, improving response efficiency by 30%
-- 📈 Increased market penetration by 40% through competitive analysis
-- 🚀 Drove 15% revenue growth through community marketing strategies
+  <br><br>
+
+  <kbd>
+    <div align="left" style="padding: 15px;">
+      <h4>🏢 Syntax Co., Ltd | Data Analytics & Business Development | <i>12/2023 - 02/2024</i></h4>
+      <ul>
+        <li>💻 Enhanced customer behavior insights through advanced analytics</li>
+        <li>🤖 Built no-code AI chatbot, improving response efficiency by 30%</li>
+        <li>📈 Increased market penetration by 40% through competitive analysis</li>
+        <li>🚀 Drove 15% revenue growth through community marketing strategies</li>
+      </ul>
+    </div>
+  </kbd>
+</div>
 
 </div>
 
@@ -141,47 +173,66 @@
 - 🇹🇭 Thai (Native)
 - 🇬🇧 English (Intermediate)
 
-#### Soft Skills
-- 📊 Data Visualization
-- 🧩 Problem-Solving
-- 🎯 Pitching
-- 🤖 Prompt Engineering
-
 </div>
 
 ### 📜 Certifications
 
-<div align="left">
-
-#### Google Advanced Data Analytics Specialization
-<img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
-
-**Course Modules:**
-- 🤖 The Nuts and Bolts of Machine Learning
-  - *Machine learning workflows and model evaluation*
-- 📊 Foundations of Data Science
-  - *Data exploration and visualization*
-- 🐍 Get Started with Python
-  - *Python for data analysis and scripting*
-- 📈 The Power of Statistics
-  - *Statistical methods for data insights*
-- 📉 Regression Analysis
-  - *Advanced regression techniques for trend analysis*
-- 📱 Go Beyond the Numbers
-  - *Data storytelling and visualization*
-- 🎓 Advanced Data Analytics Capstone
-  - *Real-world data analytics project*
-
-#### Project Management Capstone
-<img src="https://img.shields.io/badge/Issuer-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge"/>
-
-**Course Focus:**
-- 📋 Project Management
-- ⚠️ Risk Management
-- 🔄 Agile Management
-- 👥 Leadership
-- 🎯 Scrum Methodology
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+        <br>
+        <sub><b>Advanced Data Analytics</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Issuer-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge"/>
+        <br>
+        <sub><b>Project Management</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
+
+### 💡 Key Skills & Expertise
+
+<div align="center">
+  <kbd>
+    <div align="center">
+      <h4>🔄 Data Analysis</h4>
+      <p>
+        ETL • Data Preparation • Data Cleaning<br>
+        Word Cloud • Semantic Networks • Network Graphs<br>
+        EDA • LDA • GSDMM • ANOVA • TF-IDF<br>
+        Topic Modeling • Sentiment Analysis
+      </p>
+    </div>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;
+  <kbd>
+    <div align="center">
+      <h4>💼 Business</h4>
+      <p>
+        DCF • NPV • IRR • ROI • CAC<br>
+        Value-Based Pricing • Five Forces<br>
+        Business Model Canvas • 4Us • 3Ds<br>
+        RFM Analysis • SWOT • PESTEL
+      </p>
+    </div>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;
+  <kbd>
+    <div align="center">
+      <h4>🌐 Languages</h4>
+      <p>
+        🇹🇭 Thai (Native)<br>
+        🇬🇧 English (Intermediate)
+      </p>
+    </div>
+  </kbd>
+</div>
+
+---
+
