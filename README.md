@@ -133,25 +133,24 @@
 </div>
 
 ---
-
 ### Awards 🎖️
 
   <kbd>
-    <div align="left" style="padding: 30px;">
-      <p>🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
-      <p>🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.</p>
-      <p>🥇 Youth Mentorship Project Hackathon (2022): Winner.</p>
-      <p>🥈 AI & Cyber Security Hackathon (2024): 1st Runner-Up.</p>
-      <p>🥈 CUBS Blockathon (2024): 1st Runner-Up among 1,700+ participants.</p>
-      <p>🥈 Young Gen Hackathon (2022): 1st Runner-Up among 100+ participants.</p>
-      <p>🥈 Business Idea Competition by Base x Ignite (2021): 1st Runner-Up among 200+ participants.</p>
-      <p>🥈 Wai-Run Me Kong Competition (2021): 1st Runner-Up</p>
-      <p>🥈 Microsoft Track | CHOICEISYOUR2024: 1st Runner-Up.</p>
-      <p>🥈 DDI Bootcamp (2023): 1st Runner-Up.</p>
-      <p>🥈 DDI Tech Startup Program (2022): 1st Runner-Up.</p>
-      <p>🥉 KMUTT MIDI Hackathon (2022): 2nd Runner-Up.</p>
-      <p>🥉 NiTAD 18 Chulalongkorn (2022): 2nd Runner-Up.</p>
-      <p>🥉 Chula Engineer Hackathon (2022): 2nd Runner-Up + Most Creative Prize.</p>
+    <div align="center" style="padding: 20px; width: 100%;">
+      <p style="width: 100%; text-align: justify;">🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
+      <p style="width: 100%; text-align: justify;">🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.</p>
+      <p style="width: 100%; text-align: justify;">🥇 Youth Mentorship Project Hackathon (2022): Winner.</p>
+      <p style="width: 100%; text-align: justify;">🥈 AI & Cyber Security Hackathon (2024): 1st Runner-Up.</p>
+      <p style="width: 100%; text-align: justify;">🥈 CUBS Blockathon (2024): 1st Runner-Up among 1,700+ participants.</p>
+      <p style="width: 100%; text-align: justify;">🥈 Young Gen Hackathon (2022): 1st Runner-Up among 100+ participants.</p>
+      <p style="width: 100%; text-align: justify;">🥈 Business Idea Competition by Base x Ignite (2021): 1st Runner-Up among 200+ participants.</p>
+      <p style="width: 100%; text-align: justify;">🥈 Wai-Run Me Kong Competition (2021): 1st Runner-Up</p>
+      <p style="width: 100%; text-align: justify;">🥈 Microsoft Track | CHOICEISYOUR2024: 1st Runner-Up.</p>
+      <p style="width: 100%; text-align: justify;">🥈 DDI Bootcamp (2023): 1st Runner-Up.</p>
+      <p style="width: 100%; text-align: justify;">🥈 DDI Tech Startup Program (2022): 1st Runner-Up.</p>
+      <p style="width: 100%; text-align: justify;">🥉 KMUTT MIDI Hackathon (2022): 2nd Runner-Up.</p>
+      <p style="width: 100%; text-align: justify;">🥉 NiTAD 18 Chulalongkorn (2022): 2nd Runner-Up.</p>
+      <p style="width: 100%; text-align: justify;">🥉 Chula Engineer Hackathon (2022): 2nd Runner-Up + Most Creative Prize.</p>
     </div>
   </kbd>
 </div>
