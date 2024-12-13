@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Naruebet+Aungsirikulthumrong" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF9E0F&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Naruebet+Aungsirikulthumrong" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Entrepreneur | Data Analyst & Business Developer | AI Innovator</h3>
@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Innovating+at+the+intersection+of+Data,+AI,+and+Business!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=FF9E0F&center=true&vCenter=true&width=940&lines=Innovating+at+the+intersection+of+Data,+AI,+and+Business!" alt="Typing SVG" />
 </div>
 
 ### 🛠️ Technical Skills & Tools
