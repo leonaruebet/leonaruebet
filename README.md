@@ -137,7 +137,7 @@
 ### Awards 🎖️
 
   <kbd>
-    <div align="left" style="padding: 20px;">
+    <div align="left" style="padding: 30px;">
       <p>🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
       <p>🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.</p>
       <p>🥇 Youth Mentorship Project Hackathon (2022): Winner.</p>
@@ -147,7 +147,6 @@
       <p>🥈 Business Idea Competition by Base x Ignite (2021): 1st Runner-Up among 200+ participants.</p>
       <p>🥈 Wai-Run Me Kong Competition (2021): 1st Runner-Up</p>
       <p>🥈 Microsoft Track | CHOICEISYOUR2024: 1st Runner-Up.</p>
-      <p>🥈 HACKaTHAILAND (2023): Achieved 5th place.</p>
       <p>🥈 DDI Bootcamp (2023): 1st Runner-Up.</p>
       <p>🥈 DDI Tech Startup Program (2022): 1st Runner-Up.</p>
       <p>🥉 KMUTT MIDI Hackathon (2022): 2nd Runner-Up.</p>
