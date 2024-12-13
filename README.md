@@ -121,8 +121,12 @@
           <sub><b>AI Marketing</b></sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1PvcNJIBLIhdRfiuh81FTTAJRtf7LEu8s/view">
+          <img src="https://img.shields.io/badge/Issuer-CMDF-008000?style=for-the-badge" alt="CMDF Badge"/>
+          <br>
+          <sub><b>Finance</b></sub>
         </a>
-      </td>
       </td>
     </tr>
   </table>
