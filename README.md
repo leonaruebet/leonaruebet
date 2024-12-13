@@ -119,14 +119,35 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
-        <br>
-        <sub><b>Advanced Data Analytics</b></sub>
+        <a href="https://www.coursera.org/account/accomplishments/specialization/IKDNMNJXDY3O">
+          <img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+          <br>
+          <sub><b>Advanced Data Analytics</b></sub>
+        </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Issuer-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge"/>
-        <br>
-        <sub><b>Project Management</b></sub>
+        <a href="https://www.coursera.org/account/accomplishments/verify/CMO5SPVPSOEQ">
+          <img src="https://img.shields.io/badge/Issuer-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge"/>
+          <br>
+          <sub><b>Project Management</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/15_YL4KK0PONhFB-RigEohPhx2FrxwM7U/view">
+          <img src="https://img.shields.io/badge/Issuer-Chulalongkorn-FF1493?style=for-the-badge" alt="Chula Badge"/>
+          <br>
+          <sub><b>Blockchain Technology</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/10-gJgWm93dEdbrj9yn72Ulvo2MWlxT92/view">
+          <img src="https://img.shields.io/badge/Issuer-DUGA-4B0082?style=for-the-badge" alt="DUGA Badge"/>
+          <br>
+          <sub><b>AI Marketing</b></sub>
+        </a>
+      </td>
+        </a>
+      </td>
       </td>
     </tr>
   </table>
