@@ -27,45 +27,21 @@
 
 ### 💼 Professional Journey
 
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Role-Founder_&_CEO-FF0000?style=for-the-badge" alt="Founder & CEO"/>
-      </td>
-      <td>iReadCustomer | 07/2024 - Present</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Role-COO-FF9E0F?style=for-the-badge" alt="COO"/>
-      </td>
-      <td>The Station Group Holding Co., Ltd | 05/2024 - Present</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Role-Business_Developer-4285F4?style=for-the-badge" alt="Business Developer"/>
-      </td>
-      <td>Baksters Co., Ltd | 09/2023 - Present</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Role-Data_Scientist-00C853?style=for-the-badge" alt="Data Scientist"/>
-      </td>
-      <td>Durian Corporation Co., Ltd | 06/2024 – 10/2024</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Role-Data_Analyst-7B1FA2?style=for-the-badge" alt="Data Analyst"/>
-      </td>
-      <td>Syntax Co., Ltd | 12/2023 – 02/2024</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Role-Co_Founder-FF5722?style=for-the-badge" alt="Co-Founder"/>
-      </td>
-      <td>Y-Me | 02/2022 – 01/2023</td>
-    </tr>
-  </table>
+<div align="center">
+<kbd>
+<div align="center">
+
+| 🎯 Role | 🏢 Company & Duration |
+|---------|---------------------|
+| ![Founder & CEO](https://img.shields.io/badge/Role-Founder_&_CEO-FF0000?style=for-the-badge) | **iReadCustomer** <br> *07/2024 - Present* |
+| ![COO](https://img.shields.io/badge/Role-COO-FF9E0F?style=for-the-badge) | **The Station Group Holding Co., Ltd** <br> *05/2024 - Present* |
+| ![Business Developer](https://img.shields.io/badge/Role-Business_Developer-4285F4?style=for-the-badge) | **Baksters Co., Ltd** <br> *09/2023 - Present* |
+| ![Data Scientist](https://img.shields.io/badge/Role-Data_Scientist-00C853?style=for-the-badge) | **Durian Corporation Co., Ltd** <br> *06/2024 – 10/2024* |
+| ![Data Analyst](https://img.shields.io/badge/Role-Data_Analyst-7B1FA2?style=for-the-badge) | **Syntax Co., Ltd** <br> *12/2023 – 02/2024* |
+| ![Co-Founder](https://img.shields.io/badge/Role-Co_Founder-FF5722?style=for-the-badge) | **Y-Me** <br> *02/2022 – 01/2023* |
+
+</div>
+</kbd>
 </div>
 
 ---
@@ -73,9 +49,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=FF9E0F&center=true&vCenter=true&width=940&lines=Building+the+Future+with+Data,+AI,+and+Innovation!" alt="Typing SVG" />
 </div>
-
-<details>
-<summary><h3>🛠️ Tech Stack & Expertise</h3></summary>
 
 <div align="center">
 <kbd>
@@ -94,7 +67,6 @@
 </div>
 </kbd>
 </div>
-</details>
 
 ---
 
