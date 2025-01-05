@@ -20,6 +20,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonaruebet&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -185,24 +186,67 @@
 
 ### 🏆 Achievement Showcase
 
-<kbd>
-  <div align="left" style="padding: 20px;">
-    <p>🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
-    <p>🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.</p>
-    <p>🥇 Youth Mentorship Project Hackathon (2022): Winner.</p>
-    <p>🥈 AI & Cyber Security Hackathon (2024): 1st Runner-Up.</p>
-    <p>🥈 CUBS Blockathon (2024): 1st Runner-Up among 1,700+ participants.</p>
-    <p>🥈 Young Gen Hackathon (2022): 1st Runner-Up among 100+ participants.</p>
-    <p>🥈 Business Idea Competition by Base x Ignite (2021): 1st Runner-Up among 200+ participants.</p>
-    <p>🥈 Wai-Run Me Kong Competition (2021): 1st Runner-Up</p>
-    <p>🥈 Microsoft Track | CHOICEISYOUR2024: 1st Runner-Up.</p>
-    <p>🥈 DDI Bootcamp (2023): 1st Runner-Up.</p>
-    <p>🥈 DDI Tech Startup Program (2022): 1st Runner-Up.</p>
-    <p>🥉 KMUTT MIDI Hackathon (2022): 2nd Runner-Up.</p>
-    <p>🥉 NiTAD 18 Chulalongkorn (2022): 2nd Runner-Up.</p>
-    <p>🥉 Chula Engineer Hackathon (2022): 2nd Runner-Up + Most Creative Prize.</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; flex-direction: column; gap: 10px;">
+    <!-- Gold Tier -->
+    <div style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <h4 style="color: #000; text-align: center; margin-bottom: 15px;">🥇 Championship Victories</h4>
+      <p style="font-weight: bold; text-align: center;">U Power Digital Idea Challenge Season 7 (2024)</p>
+      <p style="text-align: center; font-style: italic;">Champion among 982 teams in AI for Marketing</p>
+      <p style="font-weight: bold; text-align: center;">DDI Connect 2024</p>
+      <p style="text-align: center; font-style: italic;">Winner for Revenue-Generating Business Innovation</p>
+      <p style="font-weight: bold; text-align: center;">Youth Mentorship Project Hackathon (2022)</p>
+      <p style="text-align: center; font-style: italic;">Grand Champion</p>
+    </div>
+
+    <!-- Silver Tier -->
+    <div style="background: linear-gradient(135deg, #E8E8E8, #C0C0C0); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <h4 style="color: #000; text-align: center; margin-bottom: 15px;">🥈 First Runner-Up Achievements</h4>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+        <div style="text-align: center;">
+          <p style="font-weight: bold;">AI & Cyber Security Hackathon 2024</p>
+          <p style="font-style: italic;">Innovation in Security</p>
+        </div>
+        <div style="text-align: center;">
+          <p style="font-weight: bold;">CUBS Blockathon 2024</p>
+          <p style="font-style: italic;">Among 1,700+ participants</p>
+        </div>
+        <div style="text-align: center;">
+          <p style="font-weight: bold;">Young Gen Hackathon 2022</p>
+          <p style="font-style: italic;">100+ participating teams</p>
+        </div>
+        <div style="text-align: center;">
+          <p style="font-weight: bold;">Business Idea Competition</p>
+          <p style="font-style: italic;">Base x Ignite 2021</p>
+        </div>
+      </div>
+      <div style="text-align: center; margin-top: 15px;">
+        <p style="font-weight: bold;">Additional Achievements</p>
+        <p>Microsoft Track CHOICEISYOUR2024 • DDI Bootcamp 2023</p>
+        <p>DDI Tech Startup Program 2022 • Wai-Run Me Kong 2021</p>
+      </div>
+    </div>
+
+    <!-- Bronze Tier -->
+    <div style="background: linear-gradient(135deg, #CD7F32, #B87333); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <h4 style="color: #fff; text-align: center; margin-bottom: 15px;">🥉 Notable Mentions</h4>
+      <div style="display: flex; justify-content: space-around; text-align: center; color: #fff;">
+        <div>
+          <p style="font-weight: bold;">KMUTT MIDI Hackathon 2022</p>
+          <p style="font-style: italic;">Technical Innovation</p>
+        </div>
+        <div>
+          <p style="font-weight: bold;">NiTAD 18 Chulalongkorn</p>
+          <p style="font-style: italic;">Creative Excellence</p>
+        </div>
+        <div>
+          <p style="font-weight: bold;">Chula Engineer Hackathon</p>
+          <p style="font-style: italic;">Most Creative Prize Winner</p>
+        </div>
+      </div>
+    </div>
   </div>
-</kbd>
+</div>
 
 ---
 
