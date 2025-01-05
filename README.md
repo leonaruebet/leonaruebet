@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF9E0F&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Naruebet+Aungsirikulthumrong" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF9E0F&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Naruebet+Aungsirikulthumrong;Welcome+to+my+Digital+Innovation+Space!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Entrepreneur | Data Analyst & Business Developer | AI Innovator</h3>
 
 <div align="center">
-  <p><i>I am a young entrepreneur passionate about innovating new solutions by leveraging AI and data-driven strategies. Using my expertise in Business Development and Data Science, I aim to create impactful, technology-driven businesses.</i></p>
-</div> 
+  <p><i>Transforming ideas into impactful solutions through AI and data-driven innovation. Bridging the gap between business strategy and technological advancement.</i></p>
+</div>
 
 <div align="center">
   
@@ -18,34 +18,65 @@
 
 </div>
 
----
-
-### 💼 Professional Experience
-
-
-**Roles 🌟**
-  <kbd>
-    <div align="left" style="padding: 20px;">
-      <p>🏢 The Station Group Holding Co., Ltd | Co-Founder & Chief Operating Officer | 05/2024 - Present</p>
-      <p>🏢 Baksters Co., Ltd | Researcher & Business Developer | 09/2023 - Present</p>
-      <p>🏢 Durian Corporation Co., Ltd | Data Scientist | 06/2024 – 10/2024</p>
-      <p>🏢 Syntax Co., Ltd | Data Analyst| 12/2023 – 02/2024</p>
-      <p>🏢 Y-Me | Co-Founder & Business Developer | 02/2022 – 01/2023</p>
-    </div>
-  </kbd>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
 
+<details>
+<summary><h3>💼 Professional Journey</h3></summary>
+
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Role-COO-FF9E0F?style=for-the-badge" alt="COO"/>
+      </td>
+      <td>The Station Group Holding Co., Ltd | 05/2024 - Present</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Role-Business_Developer-4285F4?style=for-the-badge" alt="Business Developer"/>
+      </td>
+      <td>Baksters Co., Ltd | 09/2023 - Present</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Role-Data_Scientist-00C853?style=for-the-badge" alt="Data Scientist"/>
+      </td>
+      <td>Durian Corporation Co., Ltd | 06/2024 – 10/2024</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Role-Data_Analyst-7B1FA2?style=for-the-badge" alt="Data Analyst"/>
+      </td>
+      <td>Syntax Co., Ltd | 12/2023 – 02/2024</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Role-Co_Founder-FF5722?style=for-the-badge" alt="Co-Founder"/>
+      </td>
+      <td>Y-Me | 02/2022 – 01/2023</td>
+    </tr>
+  </table>
+</div>
+</details>
+
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=FF9E0F&center=true&vCenter=true&width=940&lines=Innovating+at+the+intersection+of+Data,+AI,+and+Business!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=FF9E0F&center=true&vCenter=true&width=940&lines=Building+the+Future+with+Data,+AI,+and+Innovation!" alt="Typing SVG" />
 </div>
 
-### 🛠️ Technical Skills & Tools
+<details>
+<summary><h3>🛠️ Tech Stack & Expertise</h3></summary>
 
 <div align="center">
 
-#### AI & Automation
+<h4>AI & Automation</h4>
+<div style="background: linear-gradient(45deg, #FF9E0F, #FF4B4B); padding: 20px; border-radius: 10px; margin: 10px;">
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF9E0F?style=for-the-badge)
@@ -53,7 +84,11 @@
 ![Make.com](https://img.shields.io/badge/Make.com-2E77BC?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-purple?style=for-the-badge)
 
-#### Programming & Development
+</div>
+
+<h4>Programming & Development</h4>
+<div style="background: linear-gradient(45deg, #3776AB, #1572B6); padding: 20px; border-radius: 10px; margin: 10px;">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -61,7 +96,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-#### Data Science Libraries
+</div>
+
+<h4>Data Science Stack</h4>
+<div style="background: linear-gradient(45deg, #150458, #FF4B4B); padding: 20px; border-radius: 10px; margin: 10px;">
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -70,13 +109,21 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-#### Design & Creative Tools
+</div>
+
+<h4>Creative Suite</h4>
+<div style="background: linear-gradient(45deg, #F24E1E, #FF61F6); padding: 20px; border-radius: 10px; margin: 10px;">
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premier Pro](https://img.shields.io/badge/Premier_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 
-#### Analytics & Productivity
+</div>
+
+<h4>Business Tools</h4>
+<div style="background: linear-gradient(45deg, #E97627, #000000); padding: 20px; border-radius: 10px; margin: 10px;">
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
@@ -85,75 +132,93 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
 </div>
+</div>
+</details>
 
 ---
 
-### 📜 Certifications
+<details>
+<summary><h3>📜 Professional Certifications</h3></summary>
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://www.coursera.org/account/accomplishments/specialization/IKDNMNJXDY3O">
-          <img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
-          <br>
-          <sub><b>Advanced Data Analytics</b></sub>
+          <img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Certificate"/>
         </a>
       </td>
       <td align="center">
         <a href="https://www.coursera.org/account/accomplishments/verify/CMO5SPVPSOEQ">
-          <img src="https://img.shields.io/badge/Issuer-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge"/>
-          <br>
-          <sub><b>Project Management</b></sub>
+          <img src="https://img.shields.io/badge/IBM-Project_Management-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate"/>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/15_YL4KK0PONhFB-RigEohPhx2FrxwM7U/view">
-          <img src="https://img.shields.io/badge/Issuer-Chulalongkorn-FF1493?style=for-the-badge" alt="Chula Badge"/>
-          <br>
-          <sub><b>Blockchain Technology</b></sub>
+          <img src="https://img.shields.io/badge/Chulalongkorn-Blockchain_Technology-FF1493?style=for-the-badge" alt="Blockchain Certificate"/>
         </a>
       </td>
       <td align="center">
         <a href="https://drive.google.com/file/d/10-gJgWm93dEdbrj9yn72Ulvo2MWlxT92/view">
-          <img src="https://img.shields.io/badge/Issuer-DUGA-4B0082?style=for-the-badge" alt="DUGA Badge"/>
-          <br>
-          <sub><b>AI Marketing</b></sub>
+          <img src="https://img.shields.io/badge/DUGA-AI_Marketing-4B0082?style=for-the-badge" alt="AI Marketing Certificate"/>
         </a>
       </td>
-      <td align="center">
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <a href="https://drive.google.com/file/d/1PvcNJIBLIhdRfiuh81FTTAJRtf7LEu8s/view">
-          <img src="https://img.shields.io/badge/Issuer-CMDF-008000?style=for-the-badge" alt="CMDF Badge"/>
-          <br>
-          <sub><b>Finance</b></sub>
+          <img src="https://img.shields.io/badge/CMDF-Finance-008000?style=for-the-badge" alt="Finance Certificate"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
+</details>
 
 ---
 
-### Awards 🎖️
+<details>
+<summary><h3>🏆 Achievement Showcase</h3></summary>
 
-  <kbd>
-    <div align="left" style="padding: 20px;">
-      <p>🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
-      <p>🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.</p>
-      <p>🥇 Youth Mentorship Project Hackathon (2022): Winner.</p>
-      <p>🥈 AI & Cyber Security Hackathon (2024): 1st Runner-Up.</p>
-      <p>🥈 CUBS Blockathon (2024): 1st Runner-Up among 1,700+ participants.</p>
-      <p>🥈 Young Gen Hackathon (2022): 1st Runner-Up among 100+ participants.</p>
-      <p>🥈 Business Idea Competition by Base x Ignite (2021): 1st Runner-Up among 200+ participants.</p>
-      <p>🥈 Wai-Run Me Kong Competition (2021): 1st Runner-Up</p>
-      <p>🥈 Microsoft Track | CHOICEISYOUR2024: 1st Runner-Up.</p>
-      <p>🥈 DDI Bootcamp (2023): 1st Runner-Up.</p>
-      <p>🥈 DDI Tech Startup Program (2022): 1st Runner-Up.</p>
-      <p>🥉 KMUTT MIDI Hackathon (2022): 2nd Runner-Up.</p>
-      <p>🥉 NiTAD 18 Chulalongkorn (2022): 2nd Runner-Up.</p>
-      <p>🥉 Chula Engineer Hackathon (2022): 2nd Runner-Up + Most Creative Prize.</p>
-    </div>
-  </kbd>
+<div align="left">
+  <div style="background: linear-gradient(45deg, #FFD700, #FFA500); padding: 20px; border-radius: 10px; margin: 10px;">
+    <h4>🥇 Gold Tier Achievements</h4>
+    <ul>
+      <li>U Power Digital Idea Challenge Season 7 (2024): Champion among 982 teams</li>
+      <li>DDI Connect 2024: Winner for Revenue-Generating Business</li>
+      <li>Youth Mentorship Project Hackathon (2022): Champion</li>
+    </ul>
+  </div>
+
+  <div style="background: linear-gradient(45deg, #C0C0C0, #A9A9A9); padding: 20px; border-radius: 10px; margin: 10px;">
+    <h4>🥈 Silver Tier Achievements</h4>
+    <ul>
+      <li>AI & Cyber Security Hackathon (2024): 1st Runner-Up</li>
+      <li>CUBS Blockathon (2024): 1st Runner-Up (1,700+ participants)</li>
+      <li>Young Gen Hackathon (2022): 1st Runner-Up</li>
+      <li>Business Idea Competition by Base x Ignite (2021)</li>
+      <li>Wai-Run Me Kong Competition (2021)</li>
+      <li>Microsoft Track | CHOICEISYOUR2024</li>
+      <li>DDI Bootcamp (2023)</li>
+      <li>DDI Tech Startup Program (2022)</li>
+    </ul>
+  </div>
+
+  <div style="background: linear-gradient(45deg, #CD7F32, #8B4513); padding: 20px; border-radius: 10px; margin: 10px;">
+    <h4>🥉 Bronze Tier Achievements</h4>
+    <ul>
+      <li>KMUTT MIDI Hackathon (2022)</li>
+      <li>NiTAD 18 Chulalongkorn (2022)</li>
+      <li>Chula Engineer Hackathon (2022) + Most Creative Prize</li>
+    </ul>
+  </div>
 </div>
+</details>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonaruebet&theme=radical" alt="GitHub Streak Stats" />
+</div>
