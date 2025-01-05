@@ -187,54 +187,28 @@
 ### 🏆 Achievement Showcase
 
 <div align="center">
-
-<!-- Gold Tier -->
 <kbd>
 <div align="center">
-  <h3>🥇 Championship Victories</h3>
-  
-  **U Power Digital Idea Challenge Season 7 (2024)**  
-  *Champion among 982 teams in AI for Marketing*
-  
-  **DDI Connect 2024**  
-  *Winner for Revenue-Generating Business Innovation*
-  
-  **Youth Mentorship Project Hackathon (2022)**  
-  *Grand Champion*
+
+| 🏆 Competition | 🎯 Achievement | 🌟 Recognition |
+|---------------|----------------|----------------|
+| **U Power Digital Idea Challenge Season 7** | *AI for Marketing* | 🥇 **Champion** (982 teams) |
+| **DDI Connect 2024** | *Business Innovation* | 🥇 **Champion** |
+| **Youth Mentorship Project Hackathon** | *Project Development* | 🥇 **Champion** |
+| **AI & Cyber Security Hackathon** | *Innovation in Security* | 🥈 **1st Runner-Up** |
+| **CUBS Blockathon** | *Blockchain Innovation* | 🥈 **1st Runner-Up** (1,700+ participants) |
+| **Young Gen Hackathon** | *Youth Innovation* | 🥈 **1st Runner-Up** (100+ teams) |
+| **Business Idea Competition** | *Base x Ignite* | 🥈 **1st Runner-Up** (200+ participants) |
+| **Wai-Run Me Kong Competition** | *Business Strategy* | 🥈 **1st Runner-Up** |
+| **Microsoft Track CHOICEISYOUR2024** | *Tech Innovation* | 🥈 **1st Runner-Up** |
+| **DDI Bootcamp** | *Business Development* | 🥈 **1st Runner-Up** |
+| **DDI Tech Startup Program** | *Startup Innovation* | 🥈 **1st Runner-Up** |
+| **KMUTT MIDI Hackathon** | *Technical Innovation* | 🥉 **2nd Runner-Up** |
+| **NiTAD 18 Chulalongkorn** | *Creative Excellence* | 🥉 **2nd Runner-Up** |
+| **Chula Engineer Hackathon** | *Engineering Innovation* | 🥉 **2nd Runner-Up + Most Creative** |
+
 </div>
 </kbd>
-
-<!-- Silver Tier -->
-<kbd>
-<div align="center">
-  <h3>🥈 First Runner-Up Achievements</h3>
-  
-  | Competition | Achievement |
-  |------------|-------------|
-  | **AI & Cyber Security Hackathon 2024** | *Innovation in Security* |
-  | **CUBS Blockathon 2024** | *Among 1,700+ participants* |
-  | **Young Gen Hackathon 2022** | *100+ participating teams* |
-  | **Business Idea Competition** | *Base x Ignite 2021* |
-  
-  **Additional Achievements**  
-  Microsoft Track CHOICEISYOUR2024 • DDI Bootcamp 2023  
-  DDI Tech Startup Program 2022 • Wai-Run Me Kong 2021
-</div>
-</kbd>
-
-<!-- Bronze Tier -->
-<kbd>
-<div align="center">
-  <h3>🥉 Notable Mentions</h3>
-  
-  | Competition | Recognition |
-  |------------|-------------|
-  | **KMUTT MIDI Hackathon 2022** | *Technical Innovation* |
-  | **NiTAD 18 Chulalongkorn** | *Creative Excellence* |
-  | **Chula Engineer Hackathon** | *Most Creative Prize Winner* |
-</div>
-</kbd>
-
 </div>
 
 ---
