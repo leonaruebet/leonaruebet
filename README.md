@@ -24,11 +24,16 @@
 
 ---
 
-<details>
-<summary><h3>💼 Professional Journey</h3></summary>
+### 💼 Professional Journey
 
 <div align="left">
   <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Role-Founder_&_CEO-FF0000?style=for-the-badge" alt="Founder & CEO"/>
+      </td>
+      <td>iReadCustomer | 07/2024 - Present</td>
+    </tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/Role-COO-FF9E0F?style=for-the-badge" alt="COO"/>
@@ -61,7 +66,6 @@
     </tr>
   </table>
 </div>
-</details>
 
 ---
 
@@ -179,43 +183,26 @@
 
 ---
 
-<details>
-<summary><h3>🏆 Achievement Showcase</h3></summary>
+### 🏆 Achievement Showcase
 
-<div align="left">
-  <div style="background: linear-gradient(45deg, #FFD700, #FFA500); padding: 20px; border-radius: 10px; margin: 10px;">
-    <h4>🥇 Gold Tier Achievements</h4>
-    <ul>
-      <li>U Power Digital Idea Challenge Season 7 (2024): Champion among 982 teams</li>
-      <li>DDI Connect 2024: Winner for Revenue-Generating Business</li>
-      <li>Youth Mentorship Project Hackathon (2022): Champion</li>
-    </ul>
+<kbd>
+  <div align="left" style="padding: 20px;">
+    <p>🥇 U Power Digital Idea Challenge Season 7 (2024): Winner among 982 teams in AI for Marketing.</p>
+    <p>🥇 DDI Connect 2024: Winner for developing a successful revenue-generating business.</p>
+    <p>🥇 Youth Mentorship Project Hackathon (2022): Winner.</p>
+    <p>🥈 AI & Cyber Security Hackathon (2024): 1st Runner-Up.</p>
+    <p>🥈 CUBS Blockathon (2024): 1st Runner-Up among 1,700+ participants.</p>
+    <p>🥈 Young Gen Hackathon (2022): 1st Runner-Up among 100+ participants.</p>
+    <p>🥈 Business Idea Competition by Base x Ignite (2021): 1st Runner-Up among 200+ participants.</p>
+    <p>🥈 Wai-Run Me Kong Competition (2021): 1st Runner-Up</p>
+    <p>🥈 Microsoft Track | CHOICEISYOUR2024: 1st Runner-Up.</p>
+    <p>🥈 DDI Bootcamp (2023): 1st Runner-Up.</p>
+    <p>🥈 DDI Tech Startup Program (2022): 1st Runner-Up.</p>
+    <p>🥉 KMUTT MIDI Hackathon (2022): 2nd Runner-Up.</p>
+    <p>🥉 NiTAD 18 Chulalongkorn (2022): 2nd Runner-Up.</p>
+    <p>🥉 Chula Engineer Hackathon (2022): 2nd Runner-Up + Most Creative Prize.</p>
   </div>
-
-  <div style="background: linear-gradient(45deg, #C0C0C0, #A9A9A9); padding: 20px; border-radius: 10px; margin: 10px;">
-    <h4>🥈 Silver Tier Achievements</h4>
-    <ul>
-      <li>AI & Cyber Security Hackathon (2024): 1st Runner-Up</li>
-      <li>CUBS Blockathon (2024): 1st Runner-Up (1,700+ participants)</li>
-      <li>Young Gen Hackathon (2022): 1st Runner-Up</li>
-      <li>Business Idea Competition by Base x Ignite (2021)</li>
-      <li>Wai-Run Me Kong Competition (2021)</li>
-      <li>Microsoft Track | CHOICEISYOUR2024</li>
-      <li>DDI Bootcamp (2023)</li>
-      <li>DDI Tech Startup Program (2022)</li>
-    </ul>
-  </div>
-
-  <div style="background: linear-gradient(45deg, #CD7F32, #8B4513); padding: 20px; border-radius: 10px; margin: 10px;">
-    <h4>🥉 Bronze Tier Achievements</h4>
-    <ul>
-      <li>KMUTT MIDI Hackathon (2022)</li>
-      <li>NiTAD 18 Chulalongkorn (2022)</li>
-      <li>Chula Engineer Hackathon (2022) + Most Creative Prize</li>
-    </ul>
-  </div>
-</div>
-</details>
+</kbd>
 
 ---
 
