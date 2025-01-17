@@ -19,8 +19,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonaruebet&theme=radical" alt="GitHub Streak Stats" />
+  <table>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=leonaruebet&theme=dark&hide_border=true&background=0D1117&stroke=FF9E0F&ring=FF9E0F&fire=FF9E0F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9E0F&sideLabels=FF9E0F&dates=FFFFFF" alt="GitHub Streak Stats"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
