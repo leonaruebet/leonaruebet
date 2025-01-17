@@ -22,10 +22,10 @@
   <table>
     <tr>
       <td align="center">
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&bg_color=0D1117" alt="GitHub Stats" />
+        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&bg_color=0D1117" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=leonaruebet&theme=dark&hide_border=true&background=0D1117&stroke=FF9E0F&ring=FF9E0F&fire=FF9E0F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9E0F&sideLabels=FF9E0F&dates=FFFFFF" alt="GitHub Streak Stats"/>
+        <img width="400" src="https://streak-stats.demolab.com?user=leonaruebet&theme=dark&hide_border=true&background=0D1117&stroke=FF9E0F&ring=FF9E0F&fire=FF9E0F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9E0F&sideLabels=FF9E0F&dates=FFFFFF" alt="GitHub Streak Stats"/>
       </td>
     </tr>
   </table>
@@ -78,45 +78,23 @@
 
 ---
 
-<details>
-<summary><h3>📜 Professional Certifications</h3></summary>
+### 📜 Professional Certifications
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.coursera.org/account/accomplishments/specialization/IKDNMNJXDY3O">
-          <img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Certificate"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.coursera.org/account/accomplishments/verify/CMO5SPVPSOEQ">
-          <img src="https://img.shields.io/badge/IBM-Project_Management-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://drive.google.com/file/d/15_YL4KK0PONhFB-RigEohPhx2FrxwM7U/view">
-          <img src="https://img.shields.io/badge/Chulalongkorn-Blockchain_Technology-FF1493?style=for-the-badge" alt="Blockchain Certificate"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://drive.google.com/file/d/10-gJgWm93dEdbrj9yn72Ulvo2MWlxT92/view">
-          <img src="https://img.shields.io/badge/DUGA-AI_Marketing-4B0082?style=for-the-badge" alt="AI Marketing Certificate"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://drive.google.com/file/d/1PvcNJIBLIhdRfiuh81FTTAJRtf7LEu8s/view">
-          <img src="https://img.shields.io/badge/CMDF-Finance-008000?style=for-the-badge" alt="Finance Certificate"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<kbd>
+<div align="center">
+
+| 🎓 Certification | 🏢 Institution | 🔗 Verification |
+|-----------------|----------------|-----------------|
+| **Advanced Data Analytics** | ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white) | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/IKDNMNJXDY3O) |
+| **Project Management** | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white) | [View Certificate](https://www.coursera.org/account/accomplishments/verify/CMO5SPVPSOEQ) |
+| **Blockchain Technology** | ![Chulalongkorn](https://img.shields.io/badge/Chulalongkorn-FF1493?style=for-the-badge) | [View Certificate](https://drive.google.com/file/d/15_YL4KK0PONhFB-RigEohPhx2FrxwM7U/view) |
+| **AI Marketing** | ![DUGA](https://img.shields.io/badge/DUGA-4B0082?style=for-the-badge) | [View Certificate](https://drive.google.com/file/d/10-gJgWm93dEdbrj9yn72Ulvo2MWlxT92/view) |
+| **Finance** | ![CMDF](https://img.shields.io/badge/CMDF-008000?style=for-the-badge) | [View Certificate](https://drive.google.com/file/d/1PvcNJIBLIhdRfiuh81FTTAJRtf7LEu8s/view) |
+
 </div>
-</details>
+</kbd>
+</div>
 
 ---
 
