@@ -22,10 +22,10 @@
   <table>
     <tr>
       <td align="center">
-        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&bg_color=0D1117" alt="GitHub Stats" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=leonaruebet&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&bg_color=0D1117" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=leonaruebet&theme=dark&hide_border=true&ring=FF9E0F&fire=FF9E0F&currStreakNum=FFFFFF&currStreakLabel=FF9E0F&sideLabels=FF9E0F&dates=FFFFFF&background=0D1117" alt="GitHub Streak Stats"/>
+        <img width="400" src="https://streak-stats.demolab.com/?user=leonaruebet&theme=dark&hide_border=true&background=0D1117&ring=FF9E0F&fire=FF9E0F&currStreakNum=FFFFFF&currStreakLabel=FF9E0F&sideLabels=FF9E0F&dates=FFFFFF" alt="GitHub Streak Stats"/>
       </td>
     </tr>
   </table>
